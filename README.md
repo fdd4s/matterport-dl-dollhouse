@@ -2,7 +2,7 @@
 
 ## What it does
 
-matterport-downloader downloads dollhouse 3d model of Matterport houses
+matterport-dl-dollhouse downloads dollhouse 3d model of Matterport houses
 
 ## Dependencies
 
