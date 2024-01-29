@@ -18,11 +18,11 @@ e.g: If the url is https://my.matterport.com/show/?m=huhpm6maGbT&mls=1 you have 
 
     $ php ./matterport-dl-dollhouse.php huhpm6maGbT  
     
-    it will download .dam file and .jpg texture files, then use  
-    https://github.com/codespacehelp/matterport-decoder  
-    or  
-    https://github.com/willowpsychology/rogue_matterport_archiver  
-    To convert .dam file to .obj file
+it will download .dam file and .jpg texture files, then use  
+https://github.com/codespacehelp/matterport-decoder  
+or  
+https://github.com/willowpsychology/rogue_matterport_archiver  
+To convert .dam file to .obj file
 
 ## Viewers
 
